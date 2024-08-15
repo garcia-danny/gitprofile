@@ -33,20 +33,20 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Seth.Cat',
+          title: '',
           description:
-            'A Website showcasing my cat, mainly used to test out my HTML & CSS Skills..',
+            '',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://seth.cat',
+            '',
+          link: '',
         },
         {
-          title: 'Project Coming Soom',
+          title: '',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            '',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            '',
+          link: '',
         },
       ],
     },
