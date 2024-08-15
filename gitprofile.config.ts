@@ -40,7 +40,7 @@ const CONFIG = {
             'https://files.catbox.moe/n0omqm.jpeg',
           link: 'https://seth.cat',
         },
-        {'
+        {
           title: 'Project Coming Soom',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
