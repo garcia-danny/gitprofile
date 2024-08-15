@@ -12,14 +12,14 @@ const CONFIG = {
   base: '/',
   projects: {
     github: {
-      display: false, // Display GitHub projects?
+      display: true, // Display GitHub projects?
       header: 'Github Projects',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
         limit: 8, // How many projects to display.
         exclude: {
-          forks: false, // Forked projects will not be displayed if set to true.
+          forks: true, // Forked projects will not be displayed if set to true.
           projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
@@ -37,15 +37,15 @@ const CONFIG = {
           description:
             'A Website showcasing my cat, mainly used to test out my HTML & CSS Skills..',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://files.catbox.moe/n0omqm.jpeg',
           link: 'https://seth.cat',
         },
-        {
+        {'
           title: 'Project Coming Soom',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
-            'https://files.catbox.moe/n0omqm.jpeg',
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
         },
       ],
