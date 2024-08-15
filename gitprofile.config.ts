@@ -29,32 +29,32 @@ const CONFIG = {
       },
     },
     external: {
-      header: '',
+      header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: '',
+          title: 'Seth.Cat',
           description:
-            '',
+            'A Website showcasing my cat, mainly used to test out my HTML & CSS Skills..',
           imageUrl:
-            '',
-          link: '',
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://seth.cat',
         },
         {
-          title: '',
+          title: 'Project Coming Soom',
           description:
-            '',
+            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
-            '',
-          link: '',
+            'https://files.catbox.moe/n0omqm.jpeg',
+          link: 'https://example.com',
         },
       ],
     },
   },
   seo: {
-    title: 'Portfolio of Danny Garcia',
+    title: 'Danny Garcia',
     description: '',
-    imageURL: '',
+    imageURL: 'https://files.catbox.moe/n0omqm.jpeg',
   },
   social: {
     linkedin: '',
@@ -227,7 +227,7 @@ const CONFIG = {
       class="text-primary" href="https://github.com/arifszn/gitprofile"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    >GitProfile</a> and edited by Danny Garcia.`,
 
   enablePWA: true,
 };
