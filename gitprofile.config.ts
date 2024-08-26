@@ -80,7 +80,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      '', // Empty fileUrl will hide the `Download Resume` button.
+      'mailto:danny@dannygarcia.org?subject=I%E2%80%99m%20interested%20in%20your%20resume.&body=Hello!%20My%20name%20is%20%5Bname%5D.%20I%20was%20reviewing%20your%20website%20and%20sparked%20an%20interest%20in%20viewing%20your%20resume.%0D%0A%0D%0AI%E2%80%99m%20currently%20contacting%20you%20on%20behalf%20of%20%5BCompany%20Name%5D.%20We%20are%20located%20at%20%5BBusiness%20Address%5D.%0D%0A%0D%0AThank%20you%20very%20much,%0D%0ASincerely,%0D%0A%5BYour%20Name%5D%0D%0A%5BYour%20Job%20Title%5D%0D%0A%5BYour%20Company%20Name%5D%0D%0A%5BBusiness%20Phone%20Number%5D%0D%0A%5BBusiness%20Address%5D', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'HTML',
