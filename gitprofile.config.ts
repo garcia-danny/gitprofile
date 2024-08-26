@@ -86,6 +86,7 @@ const CONFIG = {
     'HTML',
     'CSS',
     'Python',
+    'CyberSecurity',
   ],
   experiences: [
     {
@@ -99,16 +100,16 @@ const CONFIG = {
       company: 'Mcdonalds',
       position: 'Crew Trainer',
       from: 'May 2022',
-      to: 'February 2021',
+      to: 'February 2024',
       companyLink: 'https://mcdonalds.com',
     },
   ],
   certifications: [
     {
-      name: '',
-      body: '',
-      year: '',
-      link: '',
+      name: 'TryHackMe',
+      body: 'Introduction to Cyber Security',
+      year: '2024',
+      link: 'https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KRKSGSGMXX.png',
     },
   ],
   educations: [
