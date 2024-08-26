@@ -98,7 +98,7 @@ const CONFIG = {
     'Development Tools',
     'Visual Studio Code (IDE)',
     'Replit (IDE)',
-    'Basic Linux (File Management, basic commands)',
+    'Basic Linux',
     'Familiarity with ChromeOS & Windows',
     'Microsoft Exel',
     'Microsoft Word',
@@ -127,14 +127,14 @@ const CONFIG = {
     {
       name: 'TryHackMe',
       body: 'Introduction to Cyber Security',
-      year: '2024',
+      year: 'Aug 26th 2024',
       link: 'https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KRKSGSGMXX.png',
     },
   ],
   educations: [
     {
-      institution: 'Local Community College',
-      degree: 'Some College Credits',
+      institution: 'Community College',
+      degree: 'Computer Science & CyberSecurity',
       from: 'January 2024',
       to: 'Present',
     },
