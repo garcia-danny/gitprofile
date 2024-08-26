@@ -247,7 +247,7 @@ const CONFIG = {
       class="text-primary" href="https://github.com/arifszn/gitprofile"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and edited by Danny Garcia.`,
+    >GitProfile</a> by Danny Garcia.`,
 
   enablePWA: true,
 };
