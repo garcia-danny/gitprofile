@@ -33,15 +33,15 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Seth.Cat',
+          title: 'seth.cat',
           description:
-            'A Website showcasing my cat, mainly used to test out my HTML & CSS Skills..',
+            	'A fun web project built with HTML5 and CSS3 to show off my cat, Seth. I put it together using the Replit IDE.',
           imageUrl:
             'https://files.catbox.moe/n0omqm.jpeg',
           link: 'https://seth.cat',
         },
         {
-          title: 'Project Coming Soom',
+          title: 'Project Name',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
@@ -75,7 +75,7 @@ const CONFIG = {
     skype: '',
     telegram: '',
     website: 'https://www.dannygarcia.org',
-    phone: '',
+    phone: '+1 661-429-3197',
     email: 'danny@dannygarcia.org',
   },
   resume: {
@@ -116,11 +116,11 @@ const CONFIG = {
       companyLink: '',
     },
     {
-      company: 'Mcdonalds',
+      company: 'McDonalds Franchise',
       position: 'Crew Trainer',
       from: 'May 2022',
-      to: 'February 2024',
-      companyLink: 'https://mcdonalds.com',
+      to: 'March 2024',
+      companyLink: '',
     },
   ],
   certifications: [
@@ -141,8 +141,8 @@ const CONFIG = {
     {
       institution: 'High School',
       degree: 'High School Diploma',
-      from: '2019',
-      to: '2023',
+      from: 'Aug 2019',
+      to: 'June 2023',
     },
   ],
   publications: [
